@@ -5,7 +5,8 @@ Permite ver una galería de películas, agregar películas a tu lista, verlas en
 
 ---
 
-## 📁 Estructura del Proyecto (
+## 📁 Estructura del Proyecto 
+```
 WATCHLIST/
 ├── node_modules/           # Dependencias del proyecto
 ├── public/                 # Archivos estáticos públicos
@@ -29,7 +30,7 @@ WATCHLIST/
 ├── package-lock.json       # Control de versiones de dependencias
 ├── README.md               # Documentación del proyecto
 └── vite.config.js          # Configuración de Vite
-
+````
 ---
 
 ## 🛠 Funcionalidades
