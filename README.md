@@ -33,5 +33,5 @@ Permite ver una galería de películas, agregar películas a tu lista, verlas en
 ## 📦 Dependencias principales
     React
     Tailwind CSS   
-##📝 Licencia
+## 📝 Licencia
     Este proyecto está bajo la licencia MIT — ver archivo LICENSE para detalles.
