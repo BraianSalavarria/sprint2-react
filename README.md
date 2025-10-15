@@ -5,8 +5,30 @@ Permite ver una galería de películas, agregar películas a tu lista, verlas en
 
 ---
 
-## 📁 Estructura del Proyecto (sugerida)
-
+## 📁 Estructura del Proyecto (
+WATCHLIST/
+├── node_modules/           # Dependencias del proyecto
+├── public/                 # Archivos estáticos públicos
+│   └── index.html          # HTML principal de la aplicación
+├── src/                    # Código fuente de la aplicación
+│   ├── assets/             # Imágenes y recursos visuales
+│   │   ├── 2148457848.jpg
+│   │   ├── background.jpg
+│   │   └── logo.png
+│   ├── components/         # Componentes reutilizables de React
+│   │   ├── MovieCard.jsx
+│   │   ├── MovieList.jsx
+│   │   ├── NavBar.jsx
+│   │   └── WatchListModal.jsx
+│   ├── App.jsx             # Componente raíz de la aplicación
+│   ├── index.css           # Estilos globales
+│   └── main.jsx            # Punto de entrada de la aplicación
+├── .gitignore              # Archivos ignorados por Git
+├── eslint.config.js        # Configuración de ESLint
+├── package.json            # Metadatos y dependencias del proyecto
+├── package-lock.json       # Control de versiones de dependencias
+├── README.md               # Documentación del proyecto
+└── vite.config.js          # Configuración de Vite
 
 ---
 
